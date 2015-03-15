@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DialogExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_yes_activity">Yes_activity</string>
+    <string name="title_activity_nope_activity">Nope_activity</string>
+</resources>
